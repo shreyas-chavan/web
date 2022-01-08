@@ -1,0 +1,22 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: inherit;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: grey;
+  width: 8%
+}
+
+img {
+  height: 200px;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
